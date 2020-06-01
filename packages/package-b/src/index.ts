@@ -1,0 +1,1 @@
+export const something = 'I am a constant!!!'
